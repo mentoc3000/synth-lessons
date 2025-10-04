@@ -71,6 +71,8 @@ Fast LFO rates (10+ Hz) create dramatic, attention-grabbing movement. These are 
 
 ## Listening Examples
 
+*Note: The following examples demonstrate sounds that have characteristics similar to the described LFO rates. Real synthesizer sounds often use multiple modulation sources, but these examples showcase the fundamental character of different LFO speeds.*
+
 ### Slow LFO Rate
 
 **Song**: "Strobe" by Deadmau5

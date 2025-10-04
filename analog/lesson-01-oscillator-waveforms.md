@@ -52,13 +52,15 @@ The sine wave is the purest tone possible - it contains only the fundamental fre
 
 ## Listening Examples
 
+*Note: The following examples demonstrate sounds that have characteristics similar to the described waveforms. Real synthesizer sounds often use multiple oscillators, filters, and effects, but these examples showcase the fundamental character of each waveform type.*
+
 ### Sawtooth Wave in Action
 
 **Song**: "Jump" by Van Halen
 
-- **What to listen for**: The iconic lead synth sound that opens the song is a sawtooth wave
+- **What to listen for**: The iconic lead synth sound that opens the song
 - **Character**: Bright, cutting, aggressive - it immediately grabs your attention
-- **Why it works**: The sawtooth's harmonic richness makes it perfect for lead sounds that need to cut through a dense mix
+- **Why it works**: The lead sound has sawtooth wave-like characteristics - bright and harmonically rich, perfect for cutting through a dense mix
 
 **Song**: "Sweet Dreams (Are Made of This)" by Eurythmics
 
@@ -72,41 +74,41 @@ The sine wave is the purest tone possible - it contains only the fundamental fre
 
 - **What to listen for**: The main lead melody that repeats throughout
 - **Character**: Punchy, focused, with a distinctive "hollow" quality
-- **Why it works**: The square wave's odd harmonics give it a unique character that's both present and not overly bright
+- **Why it works**: The lead sound has square wave-like characteristics - punchy with odd harmonics, giving it a unique character
 
 **Song**: "Blue Monday" by New Order
 
 - **What to listen for**: The bass line that drives the song
 - **Character**: Deep, punchy, with a woody quality
-- **Why it works**: Square waves provide excellent bass foundation without the harshness of sawtooth
+- **Why it works**: The bass has square wave-like characteristics - punchy and focused, providing excellent foundation
 
 ### Triangle Wave in Action
 
 **Song**: "Chameleon" by Herbie Hancock
 
-- **What to listen for**: The soft, mellow lead sounds in the intro and throughout
+- **What to listen for**: The smooth, mellow lead sounds in the intro and throughout
 - **Character**: Smooth, flute-like, gentle
-- **Why it works**: Triangle waves provide presence without harshness, perfect for jazz and fusion
+- **Why it works**: The lead sounds have triangle wave-like characteristics - smooth and musical, perfect for jazz and fusion
 
 **Song**: "I Feel Love" by Donna Summer
 
-- **What to listen for**: The soft, pulsing bass sounds
+- **What to listen for**: The smooth, pulsing bass sounds
 - **Character**: Deep, smooth, with a gentle attack
-- **Why it works**: Triangle waves can provide bass foundation while maintaining a softer, more musical character
+- **Why it works**: The bass has triangle wave-like characteristics - smooth and musical, providing foundation while maintaining a softer character
 
 ### Sine Wave in Action
 
 **Song**: "One More Time" by Daft Punk
 
-- **What to listen for**: The deep, pure bass sounds that underpin the track
-- **Character**: Pure, mellow, fundamental frequency only
-- **Why it works**: Sine waves provide the cleanest possible bass foundation without any harmonic content to muddy the mix
+- **What to listen for**: The deep, clean bass elements that underpin the track
+- **Character**: Deep, clean, with minimal harmonic content
+- **Why it works**: The bass has characteristics similar to sine waves - clean and fundamental, providing a solid foundation
 
 **Song**: "Strobe" by Deadmau5
 
-- **What to listen for**: The soft, pure pad sounds in the intro
-- **Character**: Clean, mellow, without any harshness
-- **Why it works**: Sine waves are perfect for creating soft, ambient textures
+- **What to listen for**: The soft, mellow pad sounds in the intro
+- **Character**: Clean, mellow, with minimal harmonic complexity
+- **Why it works**: The pads have sine wave-like characteristics - soft and pure, perfect for ambient textures
 
 ## Key Takeaways
 

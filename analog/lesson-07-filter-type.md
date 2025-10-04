@@ -74,6 +74,8 @@ Resonance (also called Q or emphasis) boosts frequencies around the cutoff point
 
 ## Listening Examples
 
+*Note: The following examples demonstrate sounds that have characteristics similar to the described filter types. Real synthesizer sounds often use multiple filters and effects, but these examples showcase the fundamental character of each filter type.*
+
 ### Low-Pass Filter in Action
 
 **Song**: "Sweet Dreams (Are Made of This)" by Eurythmics

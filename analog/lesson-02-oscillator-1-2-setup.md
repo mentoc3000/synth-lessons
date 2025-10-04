@@ -60,13 +60,13 @@ Each oscillator can be set to different waveforms (sawtooth, square, triangle, s
 
 - **What to listen for**: The clean, simple lead sounds in the intro
 - **Character**: Pure, focused, with a single waveform character
-- **Why it works**: Single oscillator sounds are clean and don't compete with other elements
+- **Why it works**: The lead sounds have characteristics similar to single oscillator sounds - clean and focused
 
 **Song**: "One More Time" by Daft Punk
 
-- **What to listen for**: The simple bass sounds that underpin the track
+- **What to listen for**: The clean bass sounds that underpin the track
 - **Character**: Deep, focused, with a single waveform character
-- **Why it works**: Single oscillator bass provides clean low-end foundation
+- **Why it works**: The bass has characteristics similar to single oscillator sounds - clean and fundamental
 
 ### Two Oscillator Sounds
 
@@ -74,13 +74,13 @@ Each oscillator can be set to different waveforms (sawtooth, square, triangle, s
 
 - **What to listen for**: The thick, powerful lead sound that opens the song
 - **Character**: Rich, full, with multiple oscillator character
-- **Why it works**: Two oscillators create a thicker, more powerful sound that cuts through the mix
+- **Why it works**: The lead sound has characteristics similar to multiple oscillators - thick and powerful
 
 **Song**: "Sweet Dreams (Are Made of This)" by Eurythmics
 
 - **What to listen for**: The rich, complex bass line that repeats throughout
 - **Character**: Deep, rich, with multiple oscillator character
-- **Why it works**: Two oscillators provide both low-end power and harmonic richness
+- **Why it works**: The bass has characteristics similar to multiple oscillators - rich and complex
 
 ### Waveform Combinations
 
